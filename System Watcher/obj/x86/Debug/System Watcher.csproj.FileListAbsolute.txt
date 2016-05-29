@@ -1,0 +1,18 @@
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\bin\Debug\System Watcher.exe
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\bin\Debug\System Watcher.pdb
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\obj\x86\Debug\System_Watcher.Form1.resources
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\obj\x86\Debug\System_Watcher.Properties.Resources.resources
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\obj\x86\Debug\System Watcher.exe
+c:\users\oolo\documents\visual studio 2010\Projects\System Watcher\System Watcher\obj\x86\Debug\System Watcher.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\obj\x86\Debug\System Watcher.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\obj\x86\Debug\System Watcher.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\bin\Debug\System Watcher.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\bin\Debug\System Watcher.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\obj\x86\Debug\System_Watcher.Form1.resources
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\obj\x86\Debug\System_Watcher.Properties.Resources.resources
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\System Watcher\System Watcher\obj\x86\Debug\GenerateResource.write.1.tlog
